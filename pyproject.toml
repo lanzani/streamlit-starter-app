@@ -8,6 +8,7 @@ packages = [{include = "streamlit_starter_app"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+streamlit = "^1.25.0"
 
 
 [build-system]
